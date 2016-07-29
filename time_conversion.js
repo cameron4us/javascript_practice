@@ -1,5 +1,13 @@
 // Time Conversion to military time given HH:MM:SS(PM/AM)
 
+
+// Example:
+// 07:54:32PM
+
+
+// Output:
+// 19:54:32
+
 function main() {
     var time = readLine();
     var am = /AM/.test(time),
