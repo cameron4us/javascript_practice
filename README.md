@@ -1,5 +1,5 @@
 # javascript_practice
 
-## Howdy!
+#### Howdy!
 
-## These files are from little projects I've completed on HackerRank or by suggestions of friends.
+#### These files are from little projects I've completed on HackerRank or by suggestions of friends.
